@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <privapp-permissions package="com.mi.android.globalminusscreen">
+    <privapp-permissions package="com.miui.personalassistant">
         <permission name="com.android.launcher3.permission.READ_SETTINGS"/>
-        <permission name="com.android.launcher3.permission.WRITE_SETTINGS"/>
         <permission name="com.google.android.launcher.permission.READ_SETTINGS"/>
-        <permission name="com.google.android.launcher.permission.WRITE_SETTINGS"/>
         <permission name="com.mi.android.globallauncher.permission.READ_SETTINGS"/>
-        <permission name="com.mi.android.globallauncher.permission.WRITE_SETTINGS"/>
         <permission name="com.android.launcher.permission.READ_SETTINGS"/>
-        <permission name="com.android.launcher.permission.WRITE_SETTINGS"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
-        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
         <permission name="android.permission.STOP_APP_SWITCHES"/>
         <permission name="android.permission.INTERACT_ACROSS_USERS"/>
-        <permission name="android.permission.BIND_REMOTEVIEWS"/>
+        <permission name="android.permission.BIND_APPWIDGET"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
     </privapp-permissions>
 </permissions>
