@@ -1,0 +1,2 @@
+com.miui.personalassistant
+com.mi.android.globalminusscreen
