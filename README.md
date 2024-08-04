@@ -6,8 +6,7 @@
 
 ## Descriptions
 - App Vault by Xiaomi Inc. ported and integrated as a Magisk Module for all supported and rooted devices with Magisk
-- Miui Personal Assistant widgets
-- Adds App Vault feature in Miui Home (requires Miui Security installed except in global mode)
+- Adds App Vault feature in Miui Home (com.miui.personalassistant if in normal/CN mode of Miui Core, com.mi.android.globalminusscreen if in global mode of Miui Core)
 - Adds widgets feature in Miui Security
 
 ## Sources
@@ -15,6 +14,7 @@
 
 ## Screenshots
 - https://t.me/androidryukimodsdiscussions/226355
+- Global mode: https://t.me/ryukinotes/7
 
 ## Requirements
 - NOT in Miui ROM
@@ -26,17 +26,11 @@
 - Install Miui Core Magisk Module first: https://github.com/reiryuki/Miui-Core-Magisk-Module
 - Install Miui Home Magisk Module and/or Miui Security Magisk Module
 - Install this module https://www.pling.com/p/2133313/ via Magisk app or KernelSU app or Recovery if Magisk installed
+- If you are using KernelSU, you need to disable Unmount Modules by Default in KernelSU app settings
 - Reboot
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (and your home launcher app also) (enable show system apps) and reboot afterwards
 - If you are using SUList, you need to allow list manually your home launcher app (enable show system apps) and reboot afterwards
 - Go to app info of App vault and allow it's network access
-
-## Tested on
-- Android 11 DotOS ROM
-- Android 12 AncientOS ROM
-- Android 12.1 Nusantara ROM
-- Android 13 AOSP ROM & CrDroid ROM
-- Android 14 LineageOS ROM
 
 ## Optionals
 - https://t.me/androidryukimodsdiscussions/54012
