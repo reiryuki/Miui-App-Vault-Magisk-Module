@@ -14,11 +14,11 @@
 
 ## Screenshots
 - https://t.me/androidryukimodsdiscussions/226355
-- Global mode: https://t.me/ryukinotes/7
+- https://t.me/ryukinotes/7
 
 ## Requirements
 - NOT in Miui ROM
-- Android 5 and up
+- Android 5 (SDK 21) and up
 - Magisk or KernelSU installed
 - Miui Core Magisk Module installed
 
@@ -34,11 +34,11 @@
 
 ## Optionals
 - https://t.me/androidryukimodsdiscussions/54012
-- Global: https://t.me/androidryukimodsdiscussions/60861
+- Global: https://t.me/ryukinotes/35
 
 ## Troubleshootings
 - https://t.me/androidryukimodsdiscussions/64467
-- Global: https://t.me/androidryukimodsdiscussions/29836
+- Global: https://t.me/ryukinotes/34
 
 ## Support & Bug Report
 - https://t.me/androidryukimodsdiscussions/2618
@@ -49,6 +49,6 @@
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/androidryukimodsdiscussions/2619
+- https://t.me/ryukinotes/25
 
 
